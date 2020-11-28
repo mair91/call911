@@ -1,0 +1,151 @@
+PERCEPTION,ARMMED,COMMUNICATION,FOLLOWED,THREAT,AREA,ILLUMMINATION,ACCOMPANNIED,DANGER
+3,Si,Si,No,Si,Si,3,No,TRUE
+2,No,No,Si,Si,Si,3,Si,FALSE
+5,No,No,No,Si,No,1,No,TRUE
+1,No,Si,No,No,Si,3,Si,FALSE
+4,No,No,No,Si,No,1,No,TRUE
+1,No se,Si,No,No,No,1,No,FALSE
+3,No se,No,No,Si,No,2,No,TRUE
+5,Si,No,Si,Si,Si,3,No,TRUE
+4,No,Si,Si,No,No,1,No,TRUE
+2,No se,No,No,Si,Si,3,Si,FALSE
+3,Si,No,Si,Si,Si,3,Si,TRUE
+4,No se,No,Si,Si,Si,2,No,TRUE
+1,Si,Si,No,No,Si,1,No,FALSE
+5,No se,No,Si,No,No,1,No,TRUE
+2,No,Si,No,No,No,1,No,FALSE
+3,No se,Si,Si,Si,Si,3,Si,TRUE
+5,No,No,No,Si,Si,3,No,TRUE
+2,No se,No,Si,No,Si,2,Si,TRUE
+4,Si,No,No,Si,Si,3,No,TRUE
+5,No,Si,No,No,Si,2,No,FALSE
+4,No se,Si,No,Si,No,1,Si,FALSE
+3,No se,Si,No,No,No,3,Si,FALSE
+1,Si,Si,No,Si,No,3,No,FALSE
+3,No se,No,No,Si,No,1,No,TRUE
+5,Si,No,Si,Si,No,1,No,TRUE
+2,No se,Si,No,Si,No,3,No,FALSE
+4,No,Si,Si,Si,Si,3,Si,TRUE
+3,No se,No,Si,Si,No,2,No,TRUE
+1,No,Si,No,No,Si,3,Si,FALSE
+5,Si,Si,Si,Si,Si,3,Si,TRUE
+2,No se,No,No,No,Si,1,Si,FALSE
+5,No,Si,No,No,Si,2,Si,FALSE
+2,No se,Si,Si,Si,No,3,No,TRUE
+3,No se,No,Si,Si,No,2,No,TRUE
+3,Si,No,Si,Si,Si,2,No,TRUE
+1,No se,Si,No,Si,No,1,Si,FALSE
+3,Si,Si,No,Si,Si,3,No,TRUE
+2,No,No,Si,Si,Si,3,Si,FALSE
+5,No,No,No,Si,No,1,No,TRUE
+1,No,Si,No,No,Si,3,Si,FALSE
+4,No,No,No,Si,No,1,No,TRUE
+1,No se,Si,No,No,No,1,No,FALSE
+3,No se,No,No,Si,No,2,No,TRUE
+5,Si,No,Si,Si,Si,3,No,TRUE
+4,No,Si,Si,No,No,1,No,TRUE
+2,No se,No,No,Si,Si,3,Si,FALSE
+3,Si,No,Si,Si,Si,3,Si,TRUE
+4,No se,No,Si,Si,Si,2,No,TRUE
+1,Si,Si,No,No,Si,1,No,FALSE
+5,No se,No,Si,No,No,1,No,TRUE
+2,No,Si,No,No,No,1,No,FALSE
+2,No se,Si,No,Si,No,3,No,FALSE
+4,No,Si,Si,Si,Si,3,Si,TRUE
+3,No se,No,Si,Si,No,2,No,TRUE
+1,No,Si,No,No,Si,3,Si,FALSE
+5,Si,Si,Si,Si,Si,3,Si,TRUE
+2,No se,No,No,No,Si,1,Si,FALSE
+5,No,Si,No,No,Si,2,Si,FALSE
+2,No se,Si,Si,Si,No,3,No,TRUE
+3,No se,No,Si,Si,No,2,No,TRUE
+3,Si,No,Si,Si,Si,2,No,TRUE
+1,No se,Si,No,Si,No,1,Si,FALSE
+3,Si,Si,No,Si,Si,3,No,TRUE
+2,No,No,Si,Si,Si,3,Si,FALSE
+5,No,No,No,Si,No,1,No,TRUE
+1,No,Si,No,No,Si,3,Si,FALSE
+1,Si,Si,No,No,Si,1,No,FALSE
+5,No se,No,Si,No,No,1,No,TRUE
+2,No,Si,No,No,No,1,No,FALSE
+3,No se,Si,Si,Si,Si,3,Si,TRUE
+5,No,No,No,Si,Si,3,No,TRUE
+2,No se,No,Si,No,Si,2,Si,TRUE
+4,Si,No,No,Si,Si,3,No,TRUE
+5,No,Si,No,No,Si,2,No,FALSE
+4,No se,Si,No,Si,No,1,Si,FALSE
+3,No se,Si,No,No,No,3,Si,FALSE
+1,Si,Si,No,Si,No,3,No,FALSE
+3,No se,No,No,Si,No,1,No,TRUE
+5,Si,No,Si,Si,No,1,No,TRUE
+2,No se,Si,No,Si,No,3,No,FALSE
+4,No,Si,Si,Si,Si,3,Si,TRUE
+3,No se,No,Si,Si,No,2,No,TRUE
+1,No,Si,No,No,Si,3,Si,FALSE
+5,Si,Si,Si,Si,Si,3,Si,TRUE
+2,No se,No,No,No,Si,1,Si,FALSE
+5,No,Si,No,No,Si,2,Si,FALSE
+1,No,Si,No,No,Si,3,Si,FALSE
+4,No,No,No,Si,No,1,No,TRUE
+1,No se,Si,No,No,No,1,No,FALSE
+3,No se,No,No,Si,No,2,No,TRUE
+5,Si,No,Si,Si,Si,3,No,TRUE
+4,No,Si,Si,No,No,1,No,TRUE
+2,No se,No,No,Si,Si,3,Si,FALSE
+3,Si,No,Si,Si,Si,3,Si,TRUE
+4,No se,No,Si,Si,Si,2,No,TRUE
+1,Si,Si,No,No,Si,1,No,FALSE
+5,No se,No,Si,No,No,1,No,TRUE
+2,No,Si,No,No,No,1,No,FALSE
+2,No se,Si,No,Si,No,3,No,FALSE
+4,No,Si,Si,Si,Si,3,Si,TRUE
+3,No se,No,Si,Si,No,2,No,TRUE
+1,No,Si,No,No,Si,3,Si,FALSE
+5,Si,Si,Si,Si,Si,3,Si,TRUE
+2,No se,No,No,No,Si,1,Si,FALSE
+5,No,Si,No,No,Si,2,Si,FALSE
+2,No se,Si,Si,Si,No,3,No,TRUE
+3,No se,No,Si,Si,No,2,No,TRUE
+3,Si,No,Si,Si,Si,2,No,TRUE
+1,No se,Si,No,Si,No,1,Si,FALSE
+3,Si,Si,No,Si,Si,3,No,TRUE
+2,No,No,Si,Si,Si,3,Si,FALSE
+5,No,No,No,Si,No,1,No,TRUE
+2,No se,No,Si,No,Si,2,Si,TRUE
+4,Si,No,No,Si,Si,3,No,TRUE
+5,No,Si,No,No,Si,2,No,FALSE
+4,No se,Si,No,Si,No,1,Si,FALSE
+3,No se,Si,No,No,No,3,Si,FALSE
+1,Si,Si,No,Si,No,3,No,FALSE
+3,No se,No,No,Si,No,1,No,TRUE
+5,Si,No,Si,Si,No,1,No,TRUE
+2,No se,Si,No,Si,No,3,No,FALSE
+4,No,Si,Si,Si,Si,3,Si,TRUE
+3,No se,No,Si,Si,No,2,No,TRUE
+1,No,Si,No,No,Si,3,Si,FALSE
+5,Si,Si,Si,Si,Si,3,Si,TRUE
+2,No se,No,No,No,Si,1,Si,FALSE
+5,No,Si,No,No,Si,2,Si,FALSE
+2,No se,Si,Si,Si,No,3,No,TRUE
+3,No se,No,Si,Si,No,2,No,TRUE
+3,Si,No,Si,Si,Si,2,No,TRUE
+1,No se,Si,No,Si,No,1,Si,FALSE
+3,Si,Si,No,Si,Si,3,No,TRUE
+2,No,No,Si,Si,Si,3,Si,FALSE
+5,No,No,No,Si,No,1,No,TRUE
+1,No,Si,No,No,Si,3,Si,FALSE
+4,No,No,No,Si,No,1,No,TRUE
+2,No se,No,No,No,Si,1,Si,FALSE
+5,No,Si,No,No,Si,2,Si,FALSE
+1,No,Si,No,No,Si,3,Si,FALSE
+4,No,No,No,Si,No,1,No,TRUE
+1,No se,Si,No,No,No,1,No,FALSE
+3,No se,No,No,Si,No,2,No,TRUE
+5,Si,No,Si,Si,Si,3,No,TRUE
+4,No,Si,Si,No,No,1,No,TRUE
+2,No se,No,No,Si,Si,3,Si,FALSE
+3,Si,No,Si,Si,Si,3,Si,TRUE
+4,No se,No,Si,Si,Si,2,No,TRUE
+1,Si,Si,No,No,Si,1,No,FALSE
+5,No se,No,Si,No,No,1,No,TRUE
+3,Si,No,Si,Si,Si,2,No,TRUE

@@ -1,0 +1,151 @@
+"En una escala del 1 al 5, ¿qué tan seguro se siente? ",¿Hay alguna persona armada cerca de usted que pueda hacerle daño? ,¿Puede hablar o solicitar auxilio de forma segura?,¿Lo están Siguiendo?,¿Siente amenazada su vida?,¿Se encuentra en una zona conocida?,¿Cómo es la iluminación en la zona en la que se encuentra? ,¿Se encuentra acompañado?,Peligro
+3,Si,Si,No,Si,Si,Totalmente Iluminada,No,True
+2,No,No,Si,Si,Si,Totalmente Iluminada,Si,False
+5,No,No,No,Si,No,Escasamente Iluminada,No,True
+1,No,Si,No,No,Si,Totalmente Iluminada,Si,False
+4,No,No,No,Si,No,Escasamente Iluminada,No,True
+1,No se,Si,No,No,No,Escasamente Iluminada,No,False
+3,No se,No,No,Si,No,Parcialmente Iluminada,No,True
+5,Si,No,Si,Si,Si,Totalmente Iluminada,No,True
+4,No,Si,Si,No,No,Escasamente Iluminada,No,True
+2,No se,No,No,Si,Si,Totalmente Iluminada,Si,False
+3,Si,No,Si,Si,Si,Totalmente Iluminada,Si,True
+4,No se,No,Si,Si,Si,Parcialmente Iluminada,No,True
+1,Si,Si,No,No,Si,Escasamente Iluminada,No,False
+5,No se,No,Si,No,No,Escasamente Iluminada,No,True
+2,No,Si,No,No,No,Escasamente Iluminada,No,False
+3,No se,Si,Si,Si,Si,Totalmente Iluminada,Si,True
+5,No,No,No,Si,Si,Totalmente Iluminada,No,True
+2,No se,No,Si,No,Si,Parcialmente Iluminada,Si,True
+4,Si,No,No,Si,Si,Totalmente Iluminada,No,True
+5,No,Si,No,No,Si,Parcialmente Iluminada,No,False
+4,No se,Si,No,Si,No,Escasamente Iluminada,Si,False
+3,No se,Si,No,No,No,Totalmente Iluminada,Si,False
+1,Si,Si,No,Si,No,Totalmente Iluminada,No,False
+3,No se,No,No,Si,No,Escasamente Iluminada,No,True
+5,Si,No,Si,Si,No,Escasamente Iluminada,No,True
+2,No se,Si,no,si,no,Totalmente Iluminada,no,False
+4,No,Si,Si,Si,Si,Totalmente Iluminada,Si,True
+3,No se,no,si,si,no,Parcialmente Iluminada,no,True
+1,No,si,no,no,si,Totalmente Iluminada,si,False
+5,Si,si,si,si,si,Totalmente Iluminada,si,True
+2,No se,no,no,no,si,Escasamente Iluminada,si,False
+5,no,Si,No,no,si,Parcialmente Iluminada,Si,False
+2,No se,Si,Si,Si,no,Totalmente Iluminada,No,True
+3,No se,No,Si,Si,No,Parcialmente Iluminada,no,True
+3,Si,no,si,si,si,Parcialmente Iluminada,no,True
+1,No se,si,no,Si,No,Escasamente Iluminada,Si,False
+3,Si,Si,No,Si,Si,Totalmente Iluminada,No,True
+2,No,No,Si,Si,Si,Totalmente Iluminada,Si,False
+5,No,No,No,Si,No,Escasamente Iluminada,No,True
+1,No,Si,No,No,Si,Totalmente Iluminada,Si,False
+4,No,No,No,Si,No,Escasamente Iluminada,No,True
+1,No se,Si,No,No,No,Escasamente Iluminada,No,False
+3,No se,No,No,Si,No,Parcialmente Iluminada,No,True
+5,Si,No,Si,Si,Si,Totalmente Iluminada,No,True
+4,No,Si,Si,No,No,Escasamente Iluminada,No,True
+2,No se,No,No,Si,Si,Totalmente Iluminada,Si,False
+3,Si,No,Si,Si,Si,Totalmente Iluminada,Si,True
+4,No se,No,Si,Si,Si,Parcialmente Iluminada,No,True
+1,Si,Si,No,No,Si,Escasamente Iluminada,No,False
+5,No se,No,Si,No,No,Escasamente Iluminada,No,True
+2,No,Si,No,No,No,Escasamente Iluminada,No,False
+2,No se,Si,no,si,no,Totalmente Iluminada,no,False
+4,No,Si,Si,Si,Si,Totalmente Iluminada,Si,True
+3,No se,no,si,si,no,Parcialmente Iluminada,no,True
+1,No,si,no,no,si,Totalmente Iluminada,si,False
+5,Si,si,si,si,si,Totalmente Iluminada,si,True
+2,No se,no,no,no,si,Escasamente Iluminada,si,False
+5,no,Si,No,no,si,Parcialmente Iluminada,Si,False
+2,No se,Si,Si,Si,no,Totalmente Iluminada,No,True
+3,No se,No,Si,Si,No,Parcialmente Iluminada,no,True
+3,Si,no,si,si,si,Parcialmente Iluminada,no,True
+1,No se,si,no,Si,No,Escasamente Iluminada,Si,False
+3,Si,Si,No,Si,Si,Totalmente Iluminada,No,True
+2,No,No,Si,Si,Si,Totalmente Iluminada,Si,False
+5,No,No,No,Si,No,Escasamente Iluminada,No,True
+1,No,Si,No,No,Si,Totalmente Iluminada,Si,False
+1,Si,Si,No,No,Si,Escasamente Iluminada,No,False
+5,No se,No,Si,No,No,Escasamente Iluminada,No,True
+2,No,Si,No,No,No,Escasamente Iluminada,No,False
+3,No se,Si,Si,Si,Si,Totalmente Iluminada,Si,True
+5,No,No,No,Si,Si,Totalmente Iluminada,No,True
+2,No se,No,Si,No,Si,Parcialmente Iluminada,Si,True
+4,Si,No,No,Si,Si,Totalmente Iluminada,No,True
+5,No,Si,No,No,Si,Parcialmente Iluminada,No,False
+4,No se,Si,No,Si,No,Escasamente Iluminada,Si,False
+3,No se,Si,No,No,No,Totalmente Iluminada,Si,False
+1,Si,Si,No,Si,No,Totalmente Iluminada,No,False
+3,No se,No,No,Si,No,Escasamente Iluminada,No,True
+5,Si,No,Si,Si,No,Escasamente Iluminada,No,True
+2,No se,Si,no,si,no,Totalmente Iluminada,no,False
+4,No,Si,Si,Si,Si,Totalmente Iluminada,Si,True
+3,No se,no,si,si,no,Parcialmente Iluminada,no,True
+1,No,si,no,no,si,Totalmente Iluminada,si,False
+5,Si,si,si,si,si,Totalmente Iluminada,si,True
+2,No se,no,no,no,si,Escasamente Iluminada,si,False
+5,no,Si,No,no,si,Parcialmente Iluminada,Si,False
+1,No,Si,No,No,Si,Totalmente Iluminada,Si,False
+4,No,No,No,Si,No,Escasamente Iluminada,No,True
+1,No se,Si,No,No,No,Escasamente Iluminada,No,False
+3,No se,No,No,Si,No,Parcialmente Iluminada,No,True
+5,Si,No,Si,Si,Si,Totalmente Iluminada,No,True
+4,No,Si,Si,No,No,Escasamente Iluminada,No,True
+2,No se,No,No,Si,Si,Totalmente Iluminada,Si,False
+3,Si,No,Si,Si,Si,Totalmente Iluminada,Si,True
+4,No se,No,Si,Si,Si,Parcialmente Iluminada,No,True
+1,Si,Si,No,No,Si,Escasamente Iluminada,No,False
+5,No se,No,Si,No,No,Escasamente Iluminada,No,True
+2,No,Si,No,No,No,Escasamente Iluminada,No,False
+2,No se,Si,no,si,no,Totalmente Iluminada,no,False
+4,No,Si,Si,Si,Si,Totalmente Iluminada,Si,True
+3,No se,no,si,si,no,Parcialmente Iluminada,no,True
+1,No,si,no,no,si,Totalmente Iluminada,si,False
+5,Si,si,si,si,si,Totalmente Iluminada,si,True
+2,No se,no,no,no,si,Escasamente Iluminada,si,False
+5,no,Si,No,no,si,Parcialmente Iluminada,Si,False
+2,No se,Si,Si,Si,no,Totalmente Iluminada,No,True
+3,No se,No,Si,Si,No,Parcialmente Iluminada,no,True
+3,Si,no,si,si,si,Parcialmente Iluminada,no,True
+1,No se,si,no,Si,No,Escasamente Iluminada,Si,False
+3,Si,Si,No,Si,Si,Totalmente Iluminada,No,True
+2,No,No,Si,Si,Si,Totalmente Iluminada,Si,False
+5,No,No,No,Si,No,Escasamente Iluminada,No,True
+2,No se,No,Si,No,Si,Parcialmente Iluminada,Si,True
+4,Si,No,No,Si,Si,Totalmente Iluminada,No,True
+5,No,Si,No,No,Si,Parcialmente Iluminada,No,False
+4,No se,Si,No,Si,No,Escasamente Iluminada,Si,False
+3,No se,Si,No,No,No,Totalmente Iluminada,Si,False
+1,Si,Si,No,Si,No,Totalmente Iluminada,No,False
+3,No se,No,No,Si,No,Escasamente Iluminada,No,True
+5,Si,No,Si,Si,No,Escasamente Iluminada,No,True
+2,No se,Si,no,si,no,Totalmente Iluminada,no,False
+4,No,Si,Si,Si,Si,Totalmente Iluminada,Si,True
+3,No se,no,si,si,no,Parcialmente Iluminada,no,True
+1,No,si,no,no,si,Totalmente Iluminada,si,False
+5,Si,si,si,si,si,Totalmente Iluminada,si,True
+2,No se,no,no,no,si,Escasamente Iluminada,si,False
+5,no,Si,No,no,si,Parcialmente Iluminada,Si,False
+2,No se,Si,Si,Si,no,Totalmente Iluminada,No,True
+3,No se,No,Si,Si,No,Parcialmente Iluminada,no,True
+3,Si,no,si,si,si,Parcialmente Iluminada,no,True
+1,No se,si,no,Si,No,Escasamente Iluminada,Si,False
+3,Si,Si,No,Si,Si,Totalmente Iluminada,No,True
+2,No,No,Si,Si,Si,Totalmente Iluminada,Si,False
+5,No,No,No,Si,No,Escasamente Iluminada,No,True
+1,No,Si,No,No,Si,Totalmente Iluminada,Si,False
+4,No,No,No,Si,No,Escasamente Iluminada,No,True
+2,No se,no,no,no,si,Escasamente Iluminada,si,False
+5,no,Si,No,no,si,Parcialmente Iluminada,Si,False
+1,No,Si,No,No,Si,Totalmente Iluminada,Si,False
+4,No,No,No,Si,No,Escasamente Iluminada,No,True
+1,No se,Si,No,No,No,Escasamente Iluminada,No,False
+3,No se,No,No,Si,No,Parcialmente Iluminada,No,True
+5,Si,No,Si,Si,Si,Totalmente Iluminada,No,True
+4,No,Si,Si,No,No,Escasamente Iluminada,No,True
+2,No se,No,No,Si,Si,Totalmente Iluminada,Si,False
+3,Si,No,Si,Si,Si,Totalmente Iluminada,Si,True
+4,No se,No,Si,Si,Si,Parcialmente Iluminada,No,True
+1,Si,Si,No,No,Si,Escasamente Iluminada,No,False
+5,No se,No,Si,No,No,Escasamente Iluminada,No,True
+3,Si,no,si,si,si,Parcialmente Iluminada,no,True
