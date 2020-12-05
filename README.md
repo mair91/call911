@@ -1,7 +1,7 @@
 # call911
 Final Project
 
-Mario Ibarra
-Luis Cavazos
-Carlos Palomino
-Sergio Moreno
+1. Mario Ibarra
+1. Luis Cavazos
+1. Carlos Palomino
+1. Sergio Moreno
