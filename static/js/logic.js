@@ -21,7 +21,6 @@ btn.onclick = function () {
     let R8;
     
     for (const rb of rbs1) {
-        console.log(rb)
         if (rb.checked) {
             R1 = rb.value;
             break;
@@ -29,7 +28,6 @@ btn.onclick = function () {
     }
     
     for (const rb of rbs2) {
-        console.log(rb)
         if (rb.checked) {
             R2 = rb.value;
             break;
@@ -37,7 +35,6 @@ btn.onclick = function () {
     }
     
     for (const rb of rbs3) {
-        console.log(rb)
         if (rb.checked) {
             R3 = rb.value;
             break;
@@ -45,7 +42,6 @@ btn.onclick = function () {
     }
     
     for (const rb of rbs4) {
-        console.log(rb)
         if (rb.checked) {
             R4 = rb.value;
             break;
@@ -53,7 +49,6 @@ btn.onclick = function () {
     }
     
     for (const rb of rbs5) {
-        console.log(rb)
         if (rb.checked) {
             R5 = rb.value;
             break;
@@ -61,7 +56,6 @@ btn.onclick = function () {
     }
     
     for (const rb of rbs6) {
-        console.log(rb)
         if (rb.checked) {
             R6 = rb.value;
             break;
@@ -69,7 +63,6 @@ btn.onclick = function () {
     }
     
     for (const rb of rbs7) {
-        console.log(rb)
         if (rb.checked) {
             R7 = rb.value;
             break;
@@ -77,7 +70,6 @@ btn.onclick = function () {
     }
     
     for (const rb of rbs8) {
-        console.log(rb)
         if (rb.checked) {
             R8 = rb.value;
             break;
