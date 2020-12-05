@@ -14,10 +14,12 @@ def form():
  
 @app.route("/api/<r1>/<r2>/<r3>/<r4>/<r5>/<r6>/<r7>/<r8>")
 def predictor(r1,r2,r3,r4,r5,r6,r7,r8):
-    yourX = np.array(map(int[r1,r2,r3,r4,r5,r6,r7,r8]))
-    classifier = pickle.load(open(finalized_movel.sav, 'rb'))
+    X = list(map(int,[r1,r2,r3,r4,r5,r6,r7,r8]))
+    yourX = np.array(X).reshape(1,-1)
+    classifier = pickle.load(open('finalized_model.sav', 'rb'))
     predictions = classifier.predict(yourX)
-    return jsonify(predictions)
+    d = {'prediction':predictions[0]}
+    return jsonify(d)
 
 app.run(host='localhost', port=5000)
 

@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Call 911</title>
+    <style>
+        input[type='radio'] {
+            -ms-transform: scale(1.5);
+            -webkit-transform: scale(1.5);
+            transform: scale(1.5);
+        }
+        @media screen and (max-width: 1000px) {
+            input[type='radio'] {
+                -ms-transform: scale(3);
+                -webkit-transform: scale(3);
+                transform: scale(3);
+                width: 50px;
+            }
+            body {
+                font-size: 2rem;
+            }
+            input[type='button'] {
+                font-size: 3rem;
+                width: 300px;
+            }
+            form {
+                padding: 0 100px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <form>
+        <p>From 1 to 5, how safe do you feel? (1 = not safe, 5 = very safe)</p>
+        <input type="radio" name="R1" value="1"><span>1</span>
+        <input type="radio" name="R1" value="2"><span>2</span>
+        <input type="radio" name="R1" value="3"><span>3</span>
+        <input type="radio" name="R1" value="4"><span>4</span>
+        <input type="radio" name="R1" value="5"><span>5</span>
+
+        <p>Is anyone around that could harm you?</p>
+        <input type="radio" name="R3" value="1">Yes
+        <input type="radio" name="R3" value="0">No
+        <input type="radio" name="R3" value="0">Not sure
+
+        <p>Can you ask for help?</p>
+        <input type="radio" name="R4" value="1">Yes
+        <input type="radio" name="R4" value="0">No
+
+        <p>Are you being followed?</p>
+        <input type="radio" name="R5" value="1">Yes
+        <input type="radio" name="R5" value="0">No
+
+        <p>Is your life threatened?</p>
+        <input type="radio" name="R6" value="1">Yes
+        <input type="radio" name="R6" value="0">No
+
+        <p>Are you in a familiar area?</p>
+        <input type="radio" name="R7" value="1">Yes
+        <input type="radio" name="R7" value="0">No
+
+        <p>Is your area well lit? </p>
+        <input type="radio" name="R2" value="3">Totally lit
+        <input type="radio" name="R2" value="2">Partially lit
+        <input type="radio" name="R2" value="1">Not lit
+
+        <p>Are you accompanied?</p>
+        <input type="radio" name="R8" value="1">Yes
+        <input type="radio" name="R8" value="0">No
+    
+        <br>
+        <br>
+        <input type="button" id="btn" value="Submit">
+
+    </form>
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+    <script src="http://ajax.aspnetcdn.com/ajax/jquery.validate/1.11.1/jquery.validate.min.js"></script>
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+    <script src="static/js/logic.js"></script>
+</body>
+</html>
