@@ -21,8 +21,6 @@ def predictor(r1,r2,r3,r4,r5,r6,r7,r8):
     d = {'prediction':predictions[0]}
     return jsonify(d)
 
-app.run(host='localhost', port=5000)
-
 if __name__ == '__main__':
     app.debug = True
     app.run()
